@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name OVS_2101)(type KiCad)(uri ${KIPRJMOD}/OVS_2101.pretty)(options "")(descr ""))
+)
